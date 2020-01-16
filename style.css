@@ -1,0 +1,70 @@
+body {
+  margin: 40px 40px 40px 40px;
+  background-image: url("https://c8.alamy.com/comp/JJ8G2J/stationery-seamless-pattern-vector-black-and-white-background-monochrome-JJ8G2J.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Bree Serif", serif;
+}
+boder {
+  box-shadow: 40px 40px 40px 40px rgb(126, 123, 123);
+  padding: 20px;
+  background: blue;
+}
+
+.container {
+  width: 850px;
+  margin: 15px auto;
+  padding: 10px 25px 0px 10px;
+  border: 0px solid rgb(0, 0, 0);
+  background: #fff;
+}
+.floral-background {
+  width: 900px;
+  margin-left: 20em;
+  padding: 1em;
+  background-image: url("https://media.istockphoto.com/illustrations/seamless-floral-pattern-watercolor-flowers-floral-background-with-illustration-id1143674416");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 40px 40px 40px 40px rgb(126, 123, 123);
+}
+.img-main {
+  width: 130px;
+  height: 140px;
+  border-radius: 50%;
+}
+.img-links {
+  width: 100px;
+}
+.avatar {
+  display: block;
+  border-radius: 200px;
+  box-sizing: border-box;
+  background-color: #ddd;
+  border: 5px solid #02090c;
+}
+li {
+  list-style: none;
+}
+table {
+  padding: 0;
+  margin: 0;
+}
+
+.margin-td {
+  margin-top: 2em;
+  margin-left: 2em;
+}
+.div-width {
+  width: 10;
+
+  display: block;
+}
+.checked {
+  color: yellowgreen;
+}
+
+.space-container {
+  margin-top: 3em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
